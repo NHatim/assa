@@ -1,0 +1,2 @@
+::ffff:127.0.0.1 - - [08/Nov/2021:14:22:25 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+::ffff:127.0.0.1 - - [08/Nov/2021:14:22:25 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "https://ad69d0e8ff554c618fd7c60333789abb.vfs.cloud9.us-east-1.amazonaws.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
